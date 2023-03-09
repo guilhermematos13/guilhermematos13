@@ -1,6 +1,6 @@
 ## Hi i'm Guilherme Matos!
 
-💻 I'm beginner Front-End Developer
+💻 I'm Front-End Developer
 
 📝 I'm currently graduanting in Information Systems
 
