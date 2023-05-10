@@ -5,11 +5,6 @@
 - 📚 I'm doing a degree in information systems
 - 📫 Contact with me on e-mail: guilhermemoliveira1998@gmail.com
 <br>
-<div>
-  <a href="https://github.com/guilhermematos13">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermematos13&show_icons=true&theme=transparent"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermematos13&layout=compact&theme=transparent"/>
-</div>
 
   <div style="display: inline_block"><br>
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
