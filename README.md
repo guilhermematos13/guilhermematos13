@@ -30,13 +30,24 @@ meu time de desenvolvimento e aprendi muito com soluções inovadoras em design 
     <img align="center" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
     <img align="center" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
   </div>
-
+  
 ##
+
+<div align="center">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermematos13&show_icons=true&theme=dark)
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermematos13&layout=compact&theme=dark)
 
+</div>
+
 ##
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermematos13)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermemoliviera1998@gmail.com)
+
+### 📞 Contato:
+
+- Fique à vontade para entrar em contato pelo LinkedIn ou através do meu e-mail. Aguardo seu contato!
+<div> 
+  
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermematos13)
+  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermemoliviera1998@gmail.com)
+</div>
