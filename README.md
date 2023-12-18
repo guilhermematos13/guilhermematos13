@@ -1,23 +1,42 @@
-###  👋 Hi There I'm Guilherme
+## 👋🏻 Olá! Eu sou o Guilherme Matos
 
-- 💻 I'm Front-End Developer
-- 📝 I'm currently studying to specialize in react/react-native
-- 📚 I'm doing a degree in information systems
-- 📫 Contact with me on e-mail: guilhermemoliveira1998@gmail.com
-<br>
+### 🌟 Sobre Mim:
+- Sou um Desenvolvedor Front-End com um ano de experiência na criação de interfaces web funcionais, fazendo projetos individuais, freelancers, e atuando para algumas empresas. Ao longo da minha carreira, desenvolvi habilidades avançadas em criação de interfaces, superei desafios com
+meu time de desenvolvimento e aprendi muito com soluções inovadoras em design e UX. Minha paixão por desenvolvimento Front-End é impulsionada pela busca constante de inovação e aprimoramento.
+##
 
-  <div style="display: inline_block"><br>
-  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
-  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+### 🔧 Habilidades Chave:
+- Desenvolvimento Web: Experiência sólida em HTML, CSS, e JavaScript, Typescript, com foco em frameworks como React e estou buscando me aprofundar mais em Angular e VueJs.
+- Desenvolvimento Mobile: Experiência sólida em React Native, procurando fazer um curso de Kotlin ou Flutter para me aprofundar mais no mundo mobile.
+- UI/UX Design: Criei interfaces intuitivas e agradáveis, considerando as melhores práticas de design e a usabilidade do usuário. Porém não tenho nenhuma certificação na área, fiz mais por hobbie e porque gosto de criar interfaces.
+- Resolução de Problemas: Identifiquei e corrigi bugs complexos, contribuindo para a melhoria contínua da qualidade do código.
+##
+
+  <div style="display: inline_block" align="center">
+    <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img align="center" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+    <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img align="center" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  </div>
+  <br>
+  <div style="display: inline_block"  align="center">
+    <img align="center" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+    <img align="center" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+    <img align="center" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <img align="center" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+    <img align="center" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
+    <img align="center" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
   </div>
 
 ##
-[![Linkedin Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-matos-990a19179/)
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermematos13&show_icons=true&theme=dark)
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermematos13&layout=compact&theme=dark)
 
-  ![Snake animation](https://github.com/guilhermematos13/guilhermematos13/blob/output/github-contribution-grid-snake.svg)
+##
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermematos13)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermemoliviera1998@gmail.com)
