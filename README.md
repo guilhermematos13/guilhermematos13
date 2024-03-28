@@ -1,7 +1,7 @@
 ## 👋🏻 Olá! Eu sou o Guilherme Matos
 
 ### 🌟 Sobre Mim:
-- Sou um Desenvolvedor Front-End com um ano de experiência na criação de interfaces web funcionais, fazendo projetos individuais, freelancers, e atuando para algumas empresas. Ao longo da minha carreira, desenvolvi habilidades avançadas em criação de interfaces, superei desafios com
+- Sou um Desenvolvedor Front-End com praticamente dois anos de experiência na criação de interfaces web funcionais, fazendo projetos individuais, freelancers, e atuando para algumas empresas. Ao longo da minha carreira, desenvolvi habilidades avançadas em criação de interfaces, superei desafios com
 meu time de desenvolvimento e aprendi muito com soluções inovadoras em design e UX. Minha paixão por desenvolvimento Front-End é impulsionada pela busca constante de inovação e aprimoramento.
 ##
 
